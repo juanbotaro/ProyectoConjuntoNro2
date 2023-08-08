@@ -20,6 +20,7 @@ public class Ej02v2_Guia1 {
         System.out.println("Hola soy Juan");
         System.out.println("hola soy tatiana");
         System.out.println("Hola siy Diego");
+        System.out.println("Hola soy Daniel");
     }
     
 }
