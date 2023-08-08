@@ -18,6 +18,7 @@ public class Ej02v2_Guia1 {
         // TODO code application logic here
         System.out.println("Hola soy Ariel");
         System.out.println("Hola soy Juan");
+        System.out.println("hola soy tatiana");
     }
     
 }
